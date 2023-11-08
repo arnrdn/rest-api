@@ -1,6 +1,8 @@
 package com.example.restapi.service;
 
 import com.example.restapi.model.Request;
+import lombok.AllArgsConstructor;
+import lombok.NoArgsConstructor;
 import org.springframework.stereotype.Service;
 
 import java.util.HashMap;
